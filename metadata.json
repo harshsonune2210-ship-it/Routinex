@@ -1,0 +1,6 @@
+{
+  "name": "DISCIPLINE OS",
+  "description": "Daily Routine Tracker, Punctuality Engine & Streak Motivation System with real-time push reminders.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
